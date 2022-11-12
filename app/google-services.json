@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580313199409",
+    "project_id": "login-ce3dc",
+    "storage_bucket": "login-ce3dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580313199409:android:1707d0c0ff06c234eb3610",
+        "android_client_info": {
+          "package_name": "edu.poly.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580313199409-pnnkcmgp2bsnttchb0jq2hrft8is593b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCLJ7hYCGKoNWV-NsljeTaQZux_8c5XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580313199409-pnnkcmgp2bsnttchb0jq2hrft8is593b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
